@@ -1,0 +1,145 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+    background-color: #23272A;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    border-top: 6px #7289DA solid !important;
+    font-size: 16px;
+}
+
+.nav-link {
+     font-size: 14px !important;
+ }
+
+.navbar {
+    box-shadow: none !important
+}
+
+.navbar-brand {
+    font-size: 25px !important
+}
+
+.navbar-toggler-icon {
+    color: #fff !important
+}
+
+.btn {
+    border-radius: 5px !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+}
+
+.btn-primary {
+    background-color: #7289DA !important
+}
+.btn-secondary {
+    background-color: #2C2F33 !important
+}
+.heading {
+    padding: 160px 50px !important;
+    color: #fff !important;
+    background-image: url("https://auxetite-cdn.sirv.com/wavy-blurple-by-nouridio.svg") !important;
+    background-position: bottom !important;
+    background-size: 200% !important;
+    background-repeat: no-repeat !important;
+}
+
+.title {
+    line-height: 90px !important;
+    margin-bottom: -2px !important;
+    font-size: 36px !important
+}
+
+.subtitle {
+    color: rgba(255, 255, 255, 0.61) !important;
+    font-size: 16px !important;
+}
+
+.features {
+    text-align: center !important;
+    background: #7289DA !important;
+    padding: 60px 50px !important
+}
+.features .title {
+    font-size: 40px !important;
+    color: #ffffff !important;
+    line-height: 70px !important;
+}
+
+.features .subtitle {
+    font-size: 20px !important;
+    color: #a2a8bd;
+}
+
+.cards {
+    margin-top: 30px !important;
+}
+
+.card {
+    border-radius: 5px !important;
+    box-shadow: none !important;
+}
+
+.card-title {
+    font-size: 28px !important;
+    font-weight: 600 !important;
+    color: #7289DA !important;
+}
+
+.statistics {
+    background-color: #23272A !important;
+    text-align: center !important;
+    padding: 20px 20px !important;
+}
+
+.statistics .title {
+    font-size: 40px !important;
+    color: #ffffff !important;
+    line-height: 70px !important;
+}
+
+.statistics .subtitle {
+    font-size: 20px !important;
+    color: #a2a8bd;
+}
+
+.card.statistic {
+    background: transparent !important;
+    box-shadow: none !important;
+    color: #f7f7f7 !important;
+}
+
+.start {
+    text-align: center !important;
+    background: #7289DA !important;
+    padding: 60px 50px !important
+}
+
+.start .card {
+    background: rgba(255, 255, 255, 0.83) !important;
+    color: #353e4c !important;
+}
+
+.start .card .subtitle {
+    color: rgba(53, 62, 76, 0.6) !important;
+    font-size: 16px !important;
+}
+
+.footer {
+    text-align: center !important;
+    background: #353e4c !important;
+    padding: 5px 6px !important;
+    color: #ecf2ff;
+    font-size: 14px !important
+}
+
+.footer a {
+    color: #6086f6 !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
