@@ -2,8 +2,6 @@ body {
     font-family: 'Poppins', sans-serif !important;
     background-color: #1D1E28;
     color: #fff;
-    margin: 0;
-    padding: 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
@@ -60,7 +58,7 @@ body {
     color: #fff !important;
     background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
     background-position: bottom !important;
-    background-size: 200% !important;
+    background-size: 300% !important;
     background-repeat: no-repeat !important;
 }
 
@@ -121,8 +119,15 @@ body {
 
 .statistics {
     text-align: center !important;
-    padding: 60px!important;
     padding-top: 300px !important;
+}
+
+.statistics .card-body{
+    padding: 0 !important;
+    height: 280 !important;
+    width: 332 !important;
+    max-height: 280 !important;
+    max-width: 332 !important;
 }
 
 .statistics .title {
@@ -161,7 +166,6 @@ body {
 .features .card {
     background: #1D1E28;
     border-radius: 22px !important;
-    margin:25px 25px !important;
     border: 4px solid #AD91FF;
 }
 .features .card-text {
@@ -179,6 +183,10 @@ color: rgba(255, 255, 255, 0.46) !important
     text-align: center !important;
     padding: 5px 6px !important;
     color: #ecf2ff;
+    padding: 30px 30px !important
+}
+
+.footer .nouridio {
     font-family: 'Montserrat' !important;
     font-style: normal !important;
     font-weight: 600 !important;
@@ -186,10 +194,14 @@ color: rgba(255, 255, 255, 0.46) !important
     line-height: 5px !important;
     letter-spacing: 0.15em !important;
     font-variant: small-caps !important;
-    padding: 30px 30px !important
 }
 
-.footer a {
+.footer .nouridio a {
     color: #AD91FF !important;
     text-decoration: none !important;
+}
+
+.footer .bot-footer {
+    text-align: center !important;
+    color: #a2a8bd !important
 }
