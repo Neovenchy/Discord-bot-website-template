@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif !important;
-    background-color: #23272A;
+    background-color: #1D1E28;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -97,6 +97,13 @@ body {
     color: #a2a8bd;
 }
 
+.features .card-body {
+    text-align: left !important;
+}
+
+.features .card-title {
+    margin: 0 0 -3px !important;
+}
 .cards {
     margin-top: 30px !important;
 }
@@ -113,7 +120,6 @@ body {
 }
 
 .statistics {
-    background-color: #23272A !important;
     text-align: center !important;
     padding: 60px!important;
     padding-top: 300px !important;
@@ -153,11 +159,21 @@ body {
 }
 
 .features .card {
-    background: #2C2F33;
+    background: #1D1E28;
     border-radius: 22px !important;
+    margin:25px 25px !important;
+    border: 4px solid #AD91FF;
 }
 .features .card-text {
-color: rgba(255, 255, 255, 0.397) !important
+color: rgba(255, 255, 255, 0.46) !important
+}
+
+.features .card-body {
+    padding: 40px 40px 40px 30px !important;
+}
+
+.navbar-toggler-icon {
+    color: #fff !important
 }
 .footer {
     text-align: center !important;
