@@ -25,7 +25,7 @@ Open index.html and start to use the website
 
 ## Authors
 
-[Nouridio](https://github.com/NourEldienHE)
+[Nouridio](https://github.com/Nouridio)
 
 
 ## License
