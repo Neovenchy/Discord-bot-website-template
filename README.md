@@ -28,7 +28,7 @@ Open index.html and start to use the website
 [Nouridio](https://github.com/Nouridio)
 
 ## Buy me a coffee 
-[Support me](https://www.buymeacoffee.com/nouridio)
+<a href="https://www.buymeacoffee.com/nouridio"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=❤️&slug=nouridio&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ## License
 
