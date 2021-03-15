@@ -31,6 +31,8 @@ Open index.html and start to use the website
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-###
+### Support Nouridio
 
-<a href="https://www.buymeacoffee.com/nouridio"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=❤️&slug=nouridio&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
+Support me if you want me to keep releasing more free website templates, get access to free website templates and premium website design.
+
+<a href="https://www.buymeacoffee.com/nouridio"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=❤️&slug=nouridio&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
