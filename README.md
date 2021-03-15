@@ -33,6 +33,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ### Support Nouridio
 
-Support me if you want me to keep releasing more free website templates, get access to free website templates and premium website design.
+Support me and get access to new free website templates and premium website design.
 
 <a href="https://www.buymeacoffee.com/nouridio"><img src="https://img.buymeacoffee.com/button-api/?text=Support Me&emoji=❤️&slug=nouridio&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
