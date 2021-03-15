@@ -27,6 +27,8 @@ Open index.html and start to use the website
 
 [Nouridio](https://github.com/Nouridio)
 
+## Buy me a coffee 
+[Support me](https://www.buymeacoffee.com/nouridio)
 
 ## License
 
